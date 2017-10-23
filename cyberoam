@@ -12,7 +12,7 @@ saveinfo="saveinfo"
 ########################
 # Variable Hidden Form Fields
 mode="193"
-btnSubmit="Logout"
+btnSubmit="Log Out"
 
 #######################
 # Login session check and using CLI cURL to send post data to logout Cyberoam
